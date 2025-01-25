@@ -9,22 +9,22 @@ const socialLinks = [
   {
     name: 'LinkedIn',
     url: 'https://www.linkedin.com/in/mohankrishnatangirala/',
-    icon: '/linked.avif',
+    icon: 'assets/linked.avif',
   },
   {
     name: 'Instagram',
     url: 'https://www.instagram.com/krish__712/',
-    icon: '/insta.png',
+    icon: 'assets/insta.png',
   },
   {
     name: 'GitHub',
     url: 'https://github.com/Mohan-Krishna-Tangirala',
-    icon: '/git.webp',
+    icon: 'assets/git.webp',
   },
   {
     name: 'StopStalk',
     url: 'https://www.stopstalk.com/user/profile/krish712',
-    icon: '/ss.png',
+    icon: 'assets/ss.png',
   },
 ]
 

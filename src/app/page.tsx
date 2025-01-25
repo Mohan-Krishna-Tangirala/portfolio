@@ -28,18 +28,18 @@ export default function Home() {
           <ProjectCard
             title="Happy - Sad Classification"
             description="A binary image classification model designed to classify images into Happy and Sad."
-            image="/happy-sad.jpg?height=300&width=400"
+            image="assets/happy-sad.jpg?height=300&width=400"
           />
           
           <ProjectCard
             title="Whatsapp Chat Analysis"
             description="Unlock the Secrets of Your Chats: Analyze, Visualize, and Understand Your WhatsApp Conversations!"
-            image="/whatsapp.png?height=350&width=400"
+            image="assets/whatsapp.png?height=350&width=400"
           />
           <ProjectCard
             title="Comment Toxicity"
             description="A Deep Learning Model for Predicting and Classifying Comment as Toxic or Non-Toxic."
-            image="/cmt.png?height=300&width=400"
+            image="assets/cmt.png?height=300&width=400"
           />
         </div>
         <div className="text-center mt-12">
