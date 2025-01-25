@@ -5,7 +5,7 @@ export default function Resume() {
     if (format === 'pdf') {
       // Trigger the PDF download
       const link = document.createElement('a')
-      link.href = '/Mohan_Krishna_Resume.pdf' // Path to the PDF in the public folder
+      link.href = '/assets/Mohan_Krishna_Resume.pdf' // Path to the PDF in the public folder
       link.download = 'Mohan_Krishna_Resume.pdf' // Name of the file when downloaded
       link.click()
     } 

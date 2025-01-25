@@ -1,7 +1,7 @@
 import { NextConfig } from 'next';
 
 const isProd = process.env.NODE_ENV === 'production';
-const repoName = 'portfolio-FE'; // Replace with your GitHub repository name
+const repoName = 'portfolio-FE'; // Replace with your repository name
 
 const nextConfig: NextConfig = {
   images: {
@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
   basePath: isProd ? `/${repoName}` : '',
   assetPrefix: isProd ? `/${repoName}/` : '',
   trailingSlash: true,
-  //output: 'export',
+  output: 'export', // Required for static export
   reactStrictMode: true,
 };
 
