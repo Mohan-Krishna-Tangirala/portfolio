@@ -9,7 +9,7 @@ export default function Work() {
     {
       title: "Happy - Sad Classification",
       description: "A binary image classification model designed to classify images into Happy and Sad.",
-      image: "/happy-sad.jpg?height=400&width=600",
+      image: "/assets/happy-sad.jpg?height=400&width=600",
       tags: ["Python", "TensorFlow", "OpenCV"],
       link: "https://happy-sad-classification-mohan-krishna-tangirala.streamlit.app/"
     },
