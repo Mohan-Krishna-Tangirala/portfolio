@@ -45,7 +45,7 @@ export default function Footer() {
     }
 
     try {
-      const response = await axios.post('http://localhost:5000/submit_form', {
+      const response = await axios.post('https://portfolio-be-uou6.onrender.com/submit_form', {
         name,
         email,
         message,
