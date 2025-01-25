@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
   basePath: isProd ? `/${repoName}` : '',
   assetPrefix: isProd ? `/${repoName}/` : '',
   trailingSlash: true,
-  output: 'export', // Required for static export
+  //output: 'export', // Required for static export
   reactStrictMode: true,
 };
 
