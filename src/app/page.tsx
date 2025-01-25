@@ -59,7 +59,7 @@ export default function Home() {
             <div className="border-2 border-white rounded-full p-2">
               <div className="relative rounded-full overflow-hidden aspect-square">
                 <Image
-                  src="/mohan.jpg?"
+                  src="assets/mohan.jpg?"
                   alt="Mohan Krishna"
                   fill
                   className="object-cover"
