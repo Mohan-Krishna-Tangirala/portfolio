@@ -32,7 +32,7 @@ export default function Work() {
       title: "EDA - Bank Marketing",
       description: "Bank marketing EDA involves analyzing customer data to uncover patterns and identify factors influencing behavior, enhancing marketing strategies.",
       image: "assets/EDA.jpg?height=400&width=600",
-      tags: ["Python", "Numpy", "Pandas", "Seaborn"],
+      tags: ["Python", "NumPy", "Pandas", "Seaborn"],
       link: "https://bank-marketing-eda-mohan-krishna.streamlit.app/"
     },
     {

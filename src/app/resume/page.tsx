@@ -78,7 +78,7 @@ export default function Resume() {
               </div>
               <div className="flex items-center gap-4">
                 <span className="text-xl w-6 text-center">★</span>
-                <span>Numpy</span>
+                <span>NumPy</span>
               </div>
               <div className="flex items-center gap-4">
                 <span className="text-xl w-6 text-center">★</span>
@@ -124,7 +124,7 @@ export default function Resume() {
               </div>
               <div className="flex items-center gap-4">
                 <span className="text-xl w-6 text-center">★</span>
-                <span>Microoft Power BI</span>
+                <span>Microsoft Power BI</span>
               </div>
               <div className="flex items-center gap-4">
                 <span className="text-xl w-6 text-center">★</span>
